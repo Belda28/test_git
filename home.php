@@ -5,7 +5,7 @@
 
 <?php
 echo "My first PHP script!";
-echo "dalsi vetev tttttt";
+echo "dalsi v";
 ?>
 
 </body>
